@@ -2,6 +2,14 @@ html {
   font-family: Merriweather, serif;
 }
 
+td, th {
+  border: .5px solid #ccc;
+}
+
+td {
+  height: 10em;
+}
+
 .grey {
   background-color: #f2f2f2;
   color: #333;
